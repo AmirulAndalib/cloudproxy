@@ -16,15 +16,15 @@
     "test:all": "npm run test:run && npm run test:e2e"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.21.0",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "bootstrap-vue-next": "^0.15.5",
     "core-js": "^3.36.0",
-    "vue": "^3.4.21"
+    "vue": "^3.5.44"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.0",
+    "@babel/core": "^8.0.9",
     "@babel/eslint-parser": "^7.23.10",
     "@testing-library/user-event": "^14.6.1",
     "@testing-library/vue": "^8.1.0",
@@ -36,12 +36,12 @@
     "@vue/cli-service": "~5.0.8",
     "@vue/compiler-sfc": "^3.4.21",
     "@vue/test-utils": "^2.4.6",
-    "cypress": "^14.5.4",
+    "cypress": "^16.2.1",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.22.0",
-    "happy-dom": "^18.0.1",
+    "happy-dom": "^21.0.4",
     "msw": "^2.10.5",
-    "vitest": "^3.2.4",
+    "vitest": "^5.0.5",
     "wait-on": "^8.0.4"
   },
   "eslintConfig": {
